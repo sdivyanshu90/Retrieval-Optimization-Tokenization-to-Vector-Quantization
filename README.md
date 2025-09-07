@@ -10,11 +10,11 @@
 
 ## 📖 Table of Contents
 
-* [About the Course](#about-the-course)
-* [Learning Objectives](#learning-objectives)
-* [Course Modules](#course-modules)
-* [Getting Started](#getting-started)
-* [Acknowledgments](#acknowledgments)
+* [About the Course](https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization#-about-the-course)
+* [Learning Objectives](https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization#-learning-objectives)
+* [Course Modules](https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization#-course-modules)
+* [Getting Started](https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization#-getting-started)
+* [Acknowledgments](https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization#-acknowledgments)
 
 ---
 
@@ -88,7 +88,7 @@ By the end of this course, you will be able to:
 git clone https://github.com/sdivyanshu90/Retrieval-Optimization-Tokenization-to-Vector-Quantization.git
 cd Retrieval-Optimization-Tokenization-to-Vector-Quantization
 
-# (Optional) create a virtual environment
+# (Optional) Create a virtual environment
 python -m venv venv
 source venv/bin/activate   # On Windows use venv\Scripts\activate
 ```
